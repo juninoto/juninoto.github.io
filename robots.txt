@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://juninoto.github.io/sitemap/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/yRB/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/YdB/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/TcX/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/nIx/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/sre/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/Qvy/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/boW/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/gFA/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/RjM/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/IJA/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/EgY/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/OSY/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/VDU/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/MQT/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/sLR/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/wQZ/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/KWm/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/XNs/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/agQ/sitemap_index.juninoto
+Sitemap: https://juninoto.github.io/rha/sitemap_index.juninoto
